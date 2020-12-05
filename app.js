@@ -1,4 +1,4 @@
-/* VANTA.WAVES({
+ VANTA.WAVES({
    el: "#info",
    mouseControls: true,
    touchControls: true,
@@ -8,7 +8,7 @@
    scale: 1.00,
    scaleMobile: 1.00,
    color: 0x938145
- }) */
+ }) 
 /*  VANTA.WAVES({
    el: "#info",
    mouseControls: true,
@@ -23,6 +23,7 @@
    waveHeight: 16.00,
    zoom: 0.90
  }) */
+/*
  VANTA.WAVES({
    el: "#info",
    mouseControls: true,
@@ -37,3 +38,4 @@
    waveHeight: 16.00,
    zoom: 0.90
  })
+ */
