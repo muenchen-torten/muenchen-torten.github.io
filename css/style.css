@@ -759,10 +759,10 @@ background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); */
       margin-bottom: 20px;
 
    }
-   .footer__item{
+   /*.footer__item{
      max-width: 265px;
     
-   }
+   }*/
 
    .footer__social {
       padding: 0;
