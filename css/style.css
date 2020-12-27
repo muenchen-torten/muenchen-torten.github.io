@@ -108,8 +108,8 @@ li:hover a {
 }
 
 .info {
-   /*  box-shadow: 0 0 10px rgb(164, 120, 34); */
-   box-shadow: 0 0 10px #4e5de6;
+     box-shadow: 0 0 10px rgb(164, 120, 34); 
+  /* box-shadow: 0 0 10px #4e5de6; */
 }
 
 .info__innen {
